@@ -1,0 +1,10 @@
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Phonebook_SQL_Query\Phonebook_SQL_Query\bin\Debug\Phonebook_SQL_Query.exe.config
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Phonebook_SQL_Query\Phonebook_SQL_Query\bin\Debug\Phonebook_SQL_Query.exe
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Phonebook_SQL_Query\Phonebook_SQL_Query\bin\Debug\Phonebook_SQL_Query.pdb
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Phonebook_SQL_Query\Phonebook_SQL_Query\obj\Debug\Phonebook_SQL_Query.csproj.AssemblyReference.cache
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Phonebook_SQL_Query\Phonebook_SQL_Query\obj\Debug\Phonebook_SQL_Query.Search.resources
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Phonebook_SQL_Query\Phonebook_SQL_Query\obj\Debug\Phonebook_SQL_Query.Properties.Resources.resources
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Phonebook_SQL_Query\Phonebook_SQL_Query\obj\Debug\Phonebook_SQL_Query.csproj.GenerateResource.cache
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Phonebook_SQL_Query\Phonebook_SQL_Query\obj\Debug\Phonebook_SQL_Query.csproj.CoreCompileInputs.cache
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Phonebook_SQL_Query\Phonebook_SQL_Query\obj\Debug\Phonebook_SQL_Query.exe
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Phonebook_SQL_Query\Phonebook_SQL_Query\obj\Debug\Phonebook_SQL_Query.pdb
